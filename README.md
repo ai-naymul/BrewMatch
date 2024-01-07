@@ -9,6 +9,10 @@ BrewMatch is a web application that allows users to find cafes in a specified ci
 - Search for cafes by city name.
 - Display cafe details such as name, address, type, website URL, phone number, and postal code.
 
+## Deployment
+
+The BrewMatch application is deployed and can be accessed at the following URL: [https://brewmatch.onrender.com](https://brewmatch.onrender.com)
+
 ## Local Setup
 
 ### Prerequisites
